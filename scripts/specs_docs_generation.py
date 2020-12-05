@@ -1,4 +1,5 @@
 import sys
+sys.path.extend(["/Users/lonneke/PycharmProjects/ImmuneML"])
 
 from source.dsl.InstructionParser import InstructionParser
 from source.dsl.OutputParser import OutputParser
